@@ -37,6 +37,7 @@ Removed the bottom 2.5% of page view values
 This eliminates extreme outliers that could distort the visual trends.
 
 📈 Visualizations Created
+
 1️⃣ Line Plot
 
 Shows daily page views over time.
@@ -101,4 +102,5 @@ pip install pandas matplotlib seaborn
 2️⃣ Run Project
 
 python main.py
+
 
