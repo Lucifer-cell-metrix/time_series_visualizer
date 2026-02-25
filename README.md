@@ -93,7 +93,12 @@ Matplotlib
 Seaborn
 
 ▶ How To Run
+
 1️⃣ Install Dependencies
+
 pip install pandas matplotlib seaborn
+
 2️⃣ Run Project
+
 python main.py
+
